@@ -8,7 +8,6 @@ Features:
 - MSW API + Dexie IndexedDB persistence + seed data
 - Fully deployable (Vercel/Netlify)
 - README includes setup, architecture, issues, technical decisions
-
-Run:
-1. npm install
-2. npm run dev
+note:
+This project, TalentFlow – A Mini Hiring Platform, was developed as part of the ENTNT Front-End Hiring Assignment (October 2025).  
+Built using React, with local persistence and mock APIs for Jobs, Candidates, and Assessments management.
